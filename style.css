@@ -1,0 +1,258 @@
+@charset "utf-8"; 
+body { 
+font-family: 'Open Sans', sans-serif; 
+} 
+a { 
+text-decoration: none; 
+} 
+.page-header { 
+padding-bottom:70px; 
+max-width: 1200px; 
+margin: 0px auto; 
+} 
+.nav { 
+display: flex; 
+justify-content: space-between;
+font-size: 1.2em; 
+font-weight: 300; 
+list-style-type: none; 
+padding: 30px 0; 
+} 
+nav-item { 
+color #000 
+} 
+nav-item: hover { 
+font-weight: 700; 
+} 
+.btn-line 
+{color: #000; 
+background-color: #fff; 
+font-weight: 900; 
+letter-spacing: 1.25px; 
+padding: 14px 50px; 
+border: 3px solid #000; 
+border-radius: 5px; 
+} 
+.btn-line:hover { 
+color: #fff; 
+background-color: #000; 
+} 
+.btn-black { 
+color: #fff;
+	display: block;
+	width: 155px;
+    font-size: 21px;
+    background-color: #000;
+    font-weight: 900;
+    padding: 16px 50px;
+    border: 3px solid #000;
+    border-radius: 10px;
+    margin-top: 38px;
+} 
+.btn-black:hover {
+	color: #000;
+	background-color: #fff;
+}
+.btn-white {
+	color: #fff;
+    background-color: #000;
+    font-weight: 900;
+    font-size: 18px;
+    letter-spacing: 1.25px;
+    padding: 14px 58px;
+    border: 3px solid #fff;
+    border-radius: 5px;
+}
+.btn-white:hover {
+	color: #000;
+    background-color: #fff;
+}
+main {
+	margin-bottom: 160px;
+}
+.Title {
+ 	font-size: 5em;
+	font-family: 'Cardo', serif;
+	width: 440px;
+	line-height: 1;
+    letter-spacing: 1px;
+    margin-bottom: 23px;
+}
+.wrap {
+	width: 1200px;
+margin: 0 auto;	
+}
+.grid {
+	display: flex;
+	justify-content: space-between;
+}
+.wrap-memory {
+	width: 470px;
+	margin-top: 50px;
+
+}
+.title-white {
+	padding-top: 50px;
+	margin: 0;
+	font-size: 3.5em;
+	color: #fff;
+	font-family: 'Cardo', serif;
+	line-height: 1;
+}
+.text-white{
+	margin: 0;
+	padding-top: 20px;
+	padding-bottom: 58px;
+	color: #fff;
+}
+.text-black {
+	width: 450px;
+	line-height: 1.25;
+    letter-spacing: -0.2px;
+    text-align: justify;
+}
+.text-black-1 {
+	line-height: 1.25;
+    letter-spacing: -0.2px;
+    text-align: justify;
+}
+.travel-box {
+	width: 425px;
+}
+.Image { 
+float: right; 
+margin-left: 20 px;
+}
+
+		.page-memory {
+	text-align: center;
+	background-color: #000;
+	padding-bottom: 70px;
+}
+.page-choice {
+
+}
+.item-choice {
+	padding-top: 166px;
+	width: 363px;
+}
+.hr-line {
+	width: 50px;
+	border-top: 3px solid #000;
+	margin: 28px auto 26px 0;
+}
+.title-choice {
+	font-family: 'Cardo', serif;
+	font-size: 36px;
+	line-height: 1;
+	letter-spacing: 0.5px;
+	width: 70%;
+	margin: 0 0 30px 0;
+}
+
+.icon-vector {
+	padding-top: 200px;
+	width: 72px;
+}
+.wrap-plane{
+	text-align: center;
+}
+.title-plane{
+font-size: 6em;
+	font-family: 'Cardo', serif;
+	width: 780px;
+	line-height: 1;
+    letter-spacing: 1px;
+    margin: 61px auto;	
+}
+.underline {
+	text-decoration: none;
+	border-bottom: 2px solid #000;
+	padding-bottom: 10 px;
+}
+.underline{
+color: black;
+font-style: italic;
+}
+.title-underline {
+font-family: 'Cardo', serif;
+	font-size: 36px;
+	line-height: 1.4;
+	letter-spacing: 0.5px;
+	width: 25%;
+	text-decoration: underline;
+	margin: 50px 0 20px 600px;
+}
+.arrow{
+	width: 150px;
+	margin: -800px 0 0 1180px;
+}
+	.sea{
+float: left;
+margin: 0 50px 0 120px;
+	}
+	.text-black-2 {
+	line-height: 1.25;
+    letter-spacing: -0.2px;
+    text-align: justify;
+    width: 330px;
+  padding: 0 60px 10px 1060px;
+}
+.text-black-3 {
+	line-height: 1.25;
+    letter-spacing: -0.1px;
+    text-align: justify;
+    width: 330px;
+  margin: 30px 60px -50px 1060px;
+}
+.box{
+	margin-top: -270px;
+	margin-left: -60px;
+}
+	.two-pics{
+		padding-top: 200px;
+	}
+.choose{
+	padding-top: 120px;
+	padding-left: 120px;
+	padding-bottom: 60px;
+	font-size: 3.5em;
+	color: #fff;
+	font-family: 'Cardo', serif;
+	line-height: 1;
+	width: 30%;
+}
+.wrap-2{
+background-color: #000;
+margin-top: 30px;
+padding-bottom: 100px;
+}
+.man-1{
+	width: 700px;
+	margin-top: -210px;
+	float: right;
+}
+
+.text-white-2{
+	padding-left: 120px;
+	
+
+	color: #fff;
+	text-align: justify;
+	width: 500px;
+}
+.title-white-2{
+padding-left: 120px;
+color: #fff;	
+}
+.title-white-3{
+padding-top: 40px;
+padding-left: 120px;
+color: #fff;	
+}
+
+/* Фоны */
+.Travel `{
+	background- color: #e9e7e7;
+	background-image: irl(images);
+}
